@@ -1,2 +1,2 @@
-eclipse-config
+eclipse-java-config
 ==============
