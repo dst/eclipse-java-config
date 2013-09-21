@@ -32,3 +32,6 @@ Instructions:
 - navigate to Templates view in preferences
 - click Import button
 - select a choosen template from a file system
+ 
+### More templates ###
+More useful templates can be found here: http://stackoverflow.com/questions/1028858/useful-eclipse-java-code-templates
