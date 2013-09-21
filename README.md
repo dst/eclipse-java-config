@@ -1,17 +1,17 @@
-= eclipse-java-config: Configuration for Eclipse (Java) =
+# Configuration for Eclipse (Java) #
 
-== Code formatter ==
+## Code formatter ##
 
-== Templates ==
+## Templates ##
 My custom templates for Java in Eclipse which are located in Preferences -> Java -> Editor ->  Templates
 
-=== Export ===
+### Export ###
 Instructions:
 - navigate to Templates view in preferences
 - click a choosen template
 - click Export button.
 
-=== Import ===
+### Import ###
 Instructions:
 - navigate to Templates view in preferences
 - click Import button
