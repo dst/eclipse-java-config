@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<templates>
+<template autoinsert="true" context="java" deleted="false" description="singletion" enabled="true" name="singleton">
+private static ${enclosing_type} INSTANCE = new ${enclosing_type}();
+
+public static ${enclosing_type} getInstance() {
+    return INSTANCE;
+}
+
+private ${enclosing_type}() {
+}
+</template>
+</templates>
+
