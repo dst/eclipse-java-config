@@ -7,7 +7,7 @@
 # but it doesn't destroy XML schema.
 
 file="formatter.xml "
-tmpFile="/tmp/formatter_tmp.txt"
+tmpFile=`mktemp`
 
 head -n3 $file > $tmpFile
 grep setting $file | sort >> $tmpFile
