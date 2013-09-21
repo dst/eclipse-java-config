@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash
 
 # Dariusz Stefanski
 # 21.09.2013

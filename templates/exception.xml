@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<templates>
+<template autoinsert="true" context="java" deleted="false" description="exception" enabled="true" name="exception">
+public class ${Name}Exception extends Exception {
+
+    public ${Name}Exception() {
+        super();
+    }
+
+    public ${Name}Exception(String message) {
+        super(message);
+    }
+
+    public ${Name}Exception(Throwable cause) {
+        super(cause);
+    }
+
+    public ${Name}Exception(String message, Throwable cause) {
+        super(message, cause);
+    }
+}
+</template>
+</templates>
